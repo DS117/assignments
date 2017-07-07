@@ -11,6 +11,6 @@ This repository contains my assignments
 
 [assignment week 8](https://github.com/DS117/assignments/blob/master/assignment5(1).ipynb)
 
-[final assignment R](https://github.com/DS117/assignments/blob/master/resit%2Bexam%2Bexercise%2BDone.ipynb)
+[final assignment R(resit)](https://github.com/DS117/assignments/blob/master/resit%2Bexam%2Bexercise%2BDone.ipynb)
 
-[final assignment Python](https://github.com/DS117/assignments/blob/master/Final_Assignment_Python_Done.ipynb)
+[final assignment Python(resit)](https://github.com/DS117/assignments/blob/master/Final_Assignment_Python_Done.ipynb)
